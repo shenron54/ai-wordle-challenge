@@ -1,0 +1,9 @@
+this word list comprises the intersection of 5 letter words occurring in three source lists: 
+  - wikipedia's list of most 100k most common words in the english language
+  - the american english dictionary file on my laptop
+  - the british english dictionary file on my laptop
+  
+the source lists are sanitised by dropping words that contain non-alphabetic or non-ascii
+characters and converting capitals to lowercase.
+
+only words that occur in all three resulting lists are kept.
